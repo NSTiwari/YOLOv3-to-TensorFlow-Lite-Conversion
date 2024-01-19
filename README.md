@@ -28,4 +28,4 @@ YOLOv3_TFLite
 
 ![GitHub Logo](/output.jpg)
 
-- Read the [Medium](https://medium.com/tfug-mumbai-weekly/yolov3-to-tensorflow-lite-conversion-4602cec5c239) blog.
+- Read the [Medium](https://medium.com/tfug-mumbai-weekly/yolov3-to-tensorflow-lite-conversion-4602cec5c239) blog for step-by-step implementation.
